@@ -4,7 +4,7 @@ print(b)
 print(c)
 
 fruits = ("apple", "cherry", "bananan")
-a, b, c = (fruits)
+a, b, c = fruits
 print(a)
 print(b)
 print(c)
