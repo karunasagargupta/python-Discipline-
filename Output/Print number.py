@@ -1,0 +1,7 @@
+print(100)
+print(10000)
+print(1 + 21)
+print(21 - 12)
+print(23 * 23)
+print(12 / 21)
+print("i am ", 24, "years old")
